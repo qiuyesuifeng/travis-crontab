@@ -12,6 +12,8 @@ import (
 	"time"
 )
 
+// See: http://docs.travis-ci.com/api
+
 var (
 	travisURL          string
 	travisAcceptHeader string
